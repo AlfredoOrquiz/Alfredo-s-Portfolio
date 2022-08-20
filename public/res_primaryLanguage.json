@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Guess the rainbow",
+        "startDate": "July 2022",
+        "description": "School project where we implemented our knowledge, showed the results of our training and learned how to work as a team. The website was created by Rhea, Brooke, and I, inspired by a kid named Brooke. We created a kid version of Wordle, where we have colors instead of words. You have a certain amount of guesses where you have to guess the order of the colors. The colors don’t repeat themselves in order, so you can have a chance at winning the game. It will have a red border to let you know that the color is not in the order and a yellow border to indicate that it is in the order, just in the wrong order. A green border to show that it is in the order and in the correct order.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Guess the rainbow/Guess the rainbow Main Page.png",
+          "images/portfolio/Guess the rainbow/Guess the rainbow Winning.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd Duck",
+        "startDate": "July 2022",
+        "description": "School project where we learned how to implement graphs, got more training on CSS, and learned about local storage. The website renders several photos, where customers can click and vote for their favorite images. After a certain number of votes, where the photos can’t repeat itself twice in a row, or repeat in the same row, the graph will render the number of views each image got and how many votes it got in total.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Odd duck/Odd Duck.png",
+          "images/portfolio/Odd duck/Odd Duck Results.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "July 2022",
+        "description": "One of the first websites I was working on in school where I first learned about JavaScript. I had to develop front-end implementation for app that took in information to add a new city, minimum and maximum number of customers, and average cookies sold. This was also my first project in JavaScript, and I struggled a lot, but also learned a lot more.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Salmon Cookies/Salmon Cookies.png",
+          "images/portfolio/Salmon Cookies/Salmon Cookies Results.png"
         ],
         "url": "https://github.com",
         "technologies": [

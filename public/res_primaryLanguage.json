@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Hi",
+      "description_header": "Welcome one, and welcome all",
       "description": "Hello there, I'm Alfredo Orquiz. I'm a Software Engineer with a military background in aviation mechanics. I am working on learning and mastering new coding languages. So far, the languages I am familiar with are HTML, CSS, JavaScript, and React. My goal is to become a full stack software engineer to work on designing websites from scratch, improve existing websites, and work in the robotics industry. I invite you to review my profile template to get to know me better.",
       "section_name": {
         "about": "About me",
@@ -81,37 +81,15 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "USMC",
+        "title": "Helicopter Mechanic",
+        "years": "04.2017 - 04.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Hydraulic components"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Troublwshooting",
+          "Reading schematics"
         ]
       }
     ]

@@ -1,22 +1,22 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Alfredo Orquiz. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Bienvenidos uno, y bienvenidos todos",
+      "description": "Hola, soy Alfredo Orquiz. Soy un ingeniero de software con experiencia militar en mecánica de aviación. Estoy trabajando en el aprendizaje y dominio de nuevos lenguajes de codificación. Hasta ahora, los lenguajes con los que estoy familiarizado son HTML, CSS, JavaScript y React. Mi objetivo es convertirme en un ingeniero de software de pila completa para trabajar en el diseño de sitios web desde cero, mejorar los sitios web existentes y trabajar en la industria de la robótica. Te invito a revisar mi plantilla de perfil para conocerme mejor.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mi",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Guess the rainbow",
+        "startDate": "Julio 2022",
+        "description": "Proyecto escolar donde implementamos nuestros conocimientos, mostramos los resultados de nuestra formación y aprendimos a trabajar en equipo. El sitio web fue creado por Rhea, Brooke y yo, inspirados por un niño llamado Brooke. Creamos una versión infantil de Wordle, donde tenemos colores en lugar de palabras. Tienes una cierta cantidad de conjeturas donde tienes que adivinar el orden de los colores. Los colores no se repiten en orden, por lo que puedes tener la oportunidad de ganar el juego. Tendrá un borde rojo para indicarle que el color no está en el pedido y un borde amarillo para indicar que está en el pedido, solo que en el orden incorrecto. Un borde verde para mostrar que está en el orden y en el orden correcto.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Guess the rainbow/Guess the rainbow Main Page.png",
+          "images/portfolio/Guess the rainbow/Guess the rainbow Winning.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Odd duck",
+        "startDate": "Julio 2022",
+        "description": "Proyecto escolar donde aprendimos a implementar gráficos, obtuvimos más capacitación sobre CSS y aprendimos sobre el almacenamiento local. El sitio web muestra varias fotos, donde los clientes pueden hacer clic y votar por sus imágenes favoritas. Después de un cierto número de votos, donde las fotos no pueden repetirse dos veces seguidas, o repetirse en la misma fila, el gráfico representará el número de vistas que obtuvo cada imagen y cuántos votos obtuvo en total.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Odd duck/Odd Duck.png",
+          "images/portfolio/Odd duck/Odd Duck Results.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Salmon cookies",
+        "startDate": "Julio 2022",
+        "description": "Uno de los primeros sitios web en los que estuve trabajando en la escuela donde aprendí por primera vez sobre JavaScript. Tuve que desarrollar una implementación front-end para la aplicación que tomara información para agregar una nueva ciudad, un número mínimo y máximo de clientes y un promedio de cookies vendidas. Este fue también mi primer proyecto en JavaScript, y luché mucho, pero también aprendí mucho más.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Salmon Cookies/Salmon Cookies.png",
+          "images/portfolio/Salmon Cookies/Salmon Cookies Results.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,35 +81,15 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "USMC",
+        "title": "Mechanico de Helicopteros",
+        "years": "04.2017 - 04.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Componentes hidraulicos"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Soluion de problemas",
+          "Lectura de esquemas"
         ]
       }
     ]

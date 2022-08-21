@@ -13,9 +13,9 @@ Estimate of time needed to complete: 6 - 8 hrs.
 
 Start time: 1435
 
-Finish time: _____
+Finish time: 2100
 
-Actual time needed to complete: _____
+Actual time needed to complete: 6 hrs and 35 min in total
 
 ## Contributions/Help
 
